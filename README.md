@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Han Sheng</h1>
 <h3 align="center">Full Stack Developer | Computer Vision | Mobile & Web App | Edge Devices</h3>
+<br />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hansheng0512&label=Profile%20views&color=0e75b6&style=flat" alt="hansheng0512" /> </p>
+- 👨‍💻 All of my projects are available in [my repositiry](https://github.com/Techyhans).
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hansheng0512" alt="hansheng0512" /></a> </p>
+- 📝 I regularly write articles on [my blog](https://techyhans.com/blog).
 
-- 👨‍💻 All of my projects are available at [https://github.com/Techyhans](https://github.com/Techyhans)
-
-- 📝 I regularly write articles on [https://techyhans.com/blog](https://techyhans.com/blog)
-
-- 💬 Ask me about **React, Ionic, Deep Learning, Edge Devices**
+- 💬 Ask me about **Mobile/Web Application Development Deep Learning, Edge Devices**
 
 - 📫 How to reach me **hanshengliang@outlook.com**
 
