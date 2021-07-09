@@ -11,9 +11,6 @@
 
 - 📫 How to reach me **hanshengliang@outlook.com**
 
-### Blogs posts
-[Blog List Here!](http://techyhans.com/blog/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/liang-han-sheng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="liang-han-sheng" height="30" width="40" /></a>
