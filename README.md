@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Han Sheng</h1>
 <h3 align="center">Full Stack Developer | Computer Vision | Mobile & Web App | Edge Devices</h3>
 <br />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=hansheng0512&show_icons=true&locale=en" alt="hansheng0512" />
 
 - 👨‍💻 All of my projects are available in [my repositiry](https://github.com/Techyhans).
 
@@ -24,9 +25,3 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/hansheng0512"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hansheng0512" /></a></p>
 
-<br>
-<br>
-<br>
-<br>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hansheng0512&show_icons=true&locale=en" alt="hansheng0512" />
