@@ -2,6 +2,9 @@
 <h3 align="center">Full Stack Developer | Computer Vision | Mobile & Web App | Edge Devices</h3>
 <br />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hansheng0512&show_icons=true&locale=en" alt="hansheng0512" />
+<br />
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hansheng0512&sideLabels=0071DD&border=DD2727&stroke=040052&fire=0F228A&currStreakLabel=0071DD&dates=000000&ring=0B00F3)](https://git.io/streak-stats)
 
 - 👨‍💻 All of my projects are available in [my repositiry](https://github.com/hansheng0512).
 
@@ -38,4 +41,10 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/hansheng0512"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hansheng0512" /></a></p>
+<br />
+<br />
+<br />
+<h3 align="left">Contribution Graph:</h3>
+
+[![Han Sheng's github activity graph](https://activity-graph.herokuapp.com/graph?username=hansheng0512&theme=xcode)](https://github.com/hansheng0512/github-readme-activity-graph)
 
