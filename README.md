@@ -3,7 +3,7 @@
 <br />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hansheng0512&show_icons=true&locale=en" alt="hansheng0512" />
 
-- 👨‍💻 All of my projects are available in [my repositiry](https://github.com/Techyhans).
+- 👨‍💻 All of my projects are available in [my repositiry](https://github.com/hansheng0512).
 
 - 📝 I regularly write articles on [my blog](https://techyhans.com/blog).
 
