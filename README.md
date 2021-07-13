@@ -2,7 +2,6 @@
 <h3 align="left">Full Stack Developer | Computer Vision | Mobile & Web App | Edge Devices</h3>
 <br />
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=hansheng0512&show_icons=true&locale=en" alt="hansheng0512" />
-<br />
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hansheng0512&sideLabels=0071DD&border=DD2727&stroke=040052&fire=0F228A&currStreakLabel=0071DD&dates=000000&ring=0B00F3)](https://git.io/streak-stats)
 
