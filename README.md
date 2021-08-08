@@ -43,8 +43,3 @@
 <p><a href="https://www.buymeacoffee.com/hansheng0512"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hansheng0512" /></a></p>
 <br />
 <br />
-<br />
-<h3 align="left">Contribution Graph:</h3>
-
-[![Han Sheng's github activity graph](https://activity-graph.herokuapp.com/graph?username=hansheng0512&theme=xcode)](https://github.com/hansheng0512/github-readme-activity-graph)
-
