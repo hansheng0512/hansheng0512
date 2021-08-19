@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [my own website](https://techyhans.com/blog) and [medium](https://hansheng0512.medium.com/).
 
-- 💬 Ask me about **Mobile/Web Application Development Deep Learning, Edge Devices**
+- 💬 Ask me about **Mobile/Web Application Development, Deep Learning, Edge Devices**
 
 - 📫 How to reach me **hanshengliang@outlook.com**
 
