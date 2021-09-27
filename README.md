@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available in [my repositiry](https://github.com/hansheng0512).
 
-- 📝 I regularly write articles on [my own website](https://techyhans.com/blog) and [medium](https://hansheng0512.medium.com/).
+- 📝 I regularly write articles on [my own website](https://hanshengliang.com/blog) and [medium](https://hansheng0512.medium.com/).
 
 - 💬 Ask me about **Mobile/Web Application Development, Deep Learning, Edge Devices**
 
